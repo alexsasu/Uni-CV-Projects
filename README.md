@@ -1,6 +1,6 @@
 # Uni-CV-Projects
 
-Individual projects for the Computer Vision course, taken in the 1st year of the Artificial Intelligence master program at the Faculty of Mathematics and Computer Science, University of Bucharest.
+"Mathable Score Calculator" and "Video Surveillance of On-Street Parking Spaces" were individual projects made during the Computer Vision course taken in the 1st year of the Artificial Intelligence master program at the Faculty of Mathematics and Computer Science, University of Bucharest.
 
 ## Mathable Score Calculator
 
